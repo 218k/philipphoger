@@ -9,7 +9,7 @@
 <br>
 
 - 👋 Hi, I’m Philipp
-- 💼 I am 17 year old and still in school.
+- 💼 I am 18 year old and still in school.
 - 🔭 At the moment I am not actively working on any projects
 - 📫 How to reach me **contact@wxrfel.de**
 
